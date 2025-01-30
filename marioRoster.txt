@@ -1,0 +1,5 @@
+1|Luigi|Twin brother
+2|Wario|Archnemesis
+3|Princess Peach|Romantic Interest
+4|KING BOO|ENEMY BOSS
+Didy kong|FRIEND OF FRIEND|MARIO
